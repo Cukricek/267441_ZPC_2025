@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Motor na stlačený vzduch</title>
+    <title>Príspevky on Moje portfolio predmetu ZPC</title>
     <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Motor na stlačený vzduch</description>
+    <description>Recent content in Príspevky on Moje portfolio predmetu ZPC</description>
     <generator>Hugo</generator>
     <language>cz-cs</language>
-    <lastBuildDate>Mon, 22 Sep 2025 19:47:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 21:02:58 +0200</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Moj prvy clanok</title>
-      <link>https://example.org/posts/my-first-post/</link>
-      <pubDate>Mon, 22 Sep 2025 19:47:14 +0200</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <title>Úloha č.2</title>
+      <link>https://example.org/posts/uloha2/</link>
+      <pubDate>Mon, 29 Sep 2025 21:02:58 +0200</pubDate>
+      <guid>https://example.org/posts/uloha2/</guid>
+      <description>&lt;p&gt;V tejto úlohe sme mali vytvoriť 2D grafiku pomocou vektorizácie v programe Inkscape. Účelom bolo vytvoriť si vlastné logo a následne ho vyrezať na plottri. Moje logo obsahuje moje iniciály a zvyšok je inšpirovaný mojim semestrálnym projektom.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Úloha č.1</title>
+      <link>https://example.org/posts/uloha1/</link>
+      <pubDate>Mon, 29 Sep 2025 14:48:24 +0200</pubDate>
+      <guid>https://example.org/posts/uloha1/</guid>
+      <description>&lt;p&gt;Prvou úlohou v tomto kurze bolo vytvoriť vlastnú stránku pomocou nástroja Hugo. Tento nástroj dokáže jednoducho a rýchlo vytvoriť stránku, ktorá je ľahko upraviteľná. Sem budem nahrávať všetku svoju prácu, počas semestra na predmete ZPC. Týmto spôsobom budú všetky moje úlohy aj projekty úhľadne usporiadané a jednoducho prístupné.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Mne</title>
+      <link>https://example.org/posts/mne/</link>
+      <pubDate>Mon, 29 Sep 2025 14:40:35 +0200</pubDate>
+      <guid>https://example.org/posts/mne/</guid>
+      <description>&lt;p&gt;Volám sa Matej, mám 20 rokov a pochádzam z východného slovenska. Medzi moje záľuby patrí 3D modelovanie, 3D tlač, hudba, filmy, šport napríklad plávanie, volejbal. Celý život som vedený technickým smerom a myslím si, že tento kurz bude pre mňa veľkým prínosom, či už sa bavíme o modelovaní ale aj iných programoch napríklad INKSPACE.&#xA;Momentálne študujem na vysokej škole v Brne konkrétne na fakulte strojného inžinierstva v odbore Konštrukčné inžiniertsvo. Moja stredná škola bola Stredná priemyselná škola technická v Spišskej Novej Vsi v odbore strojárstvo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

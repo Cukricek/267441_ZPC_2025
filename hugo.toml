@@ -1,4 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'cz-cs'
-title = 'Motor na stlačený vzduch'
+title = 'Moje portfolio predmetu ZPC'
 theme = "ananke"
+
+[params]
+  text_color = ""
+  author = "Matej Kellner"
+  description = "Krátky popis stránky"
+
+[[menu.main]]
+  name = "O mne"
+  url = "/posts/mne"
+  weight = 10
+
+[[menu.main]]
+  name = "Príspevky"
+  url = "/posts"
+  weight = 20
+
+[[menu.main]]
+  name = "Domov"
+  url = "/"
+  weight = 30
