@@ -20,4 +20,5 @@ title = 'Semestrálny projekt'
 #### MATERIÁLY DIELOV A ICH SPRACOVANIE
 - Je asi jasné, že takýto motor nemôže byť vytlačený 100%. Diely ako napríklad ložiská pre kľukový hriadel budú kupované. Válce pre nedostatočnú kvalitu povrchu nemôžu byť vytlačené, ale budú vyrobené z akrylovej rúry, tým sa zaistí hladký povrch a aj vizuálna stránka motora.
 Samotné tesnenia piestov budú kupované O-krúžky. Spojovací materiál bude taktiež kupovaný ako skrutky, matice, podložky a závitové vložky do 3D vytlačených súčasí.
+aaa
 
