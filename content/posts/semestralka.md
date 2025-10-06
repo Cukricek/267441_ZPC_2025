@@ -1,6 +1,6 @@
 +++
 date = '2025-09-29T21:16:24+02:00'
-draft = true
+draft = false
 title = 'Semestrálny projekt'
 +++
 # MOTOR POHÁŇANÝ STLAČENÝM VZDUCHOM
