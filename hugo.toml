@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://cukricek.github.io/267441_ZPC_2025/"
 languageCode = 'cz-cs'
 title = 'Moje portfolio predmetu ZPC'
 theme = "ananke"

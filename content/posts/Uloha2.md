@@ -12,7 +12,7 @@ V tejto úlohe sme mali vytvoriť 2D grafiku pomocou vektorizácie v programe In
 - najprv som si navrhol na papier logo - tvary, farby, text. 
 - chcel som aby moje logo obsahovalo moje iniciály alebo moje celé meno, a niečo čo by sa hodilo k môjmu semestrálnemu projektu.
 - nakoniec som si vymyslel logo v tvare motora, v strede sú moje iniciály a dopĺňajú ho dva piesty po okrajoch, ktoré odkazujú na môj semestrálny projekt
-![farebne logo po upraveni](/images/logo1.png)
+![prvy navrh loga](/images/logo1.png)
 ##### 2. KROK
 - logo som si odfotil, a pomocou funkcie vektorizovať som si ho previedool na krivky.
 - následne som si ho upravil, aby rovné čiary a plochy boli naozaj rovné
