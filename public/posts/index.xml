@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Príspevky on Moje portfolio predmetu ZPC</title>
-    <link>http://localhost:1313/267441_ZPC_2025/posts/</link>
+    <link>https://cukricek.github.io/267441_ZPC_2025/posts/</link>
     <description>Recent content in Príspevky on Moje portfolio predmetu ZPC</description>
     <generator>Hugo</generator>
     <language>cz-cs</language>
     <lastBuildDate>Wed, 01 Oct 2025 13:16:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/267441_ZPC_2025/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cukricek.github.io/267441_ZPC_2025/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Úloha č.5</title>
-      <link>http://localhost:1313/267441_ZPC_2025/posts/uloha5/</link>
+      <link>https://cukricek.github.io/267441_ZPC_2025/posts/uloha5/</link>
       <pubDate>Wed, 01 Oct 2025 13:16:46 +0200</pubDate>
-      <guid>http://localhost:1313/267441_ZPC_2025/posts/uloha5/</guid>
+      <guid>https://cukricek.github.io/267441_ZPC_2025/posts/uloha5/</guid>
       <description>&lt;h1 id=&#34;zameranie-na-programovanie-mikrokontorléru&#34;&gt;ZAMERANIE NA PROGRAMOVANIE MIKROKONTORLÉRU&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Úloha č.4</title>
-      <link>http://localhost:1313/267441_ZPC_2025/posts/uloha4/</link>
+      <link>https://cukricek.github.io/267441_ZPC_2025/posts/uloha4/</link>
       <pubDate>Wed, 01 Oct 2025 13:16:41 +0200</pubDate>
-      <guid>http://localhost:1313/267441_ZPC_2025/posts/uloha4/</guid>
+      <guid>https://cukricek.github.io/267441_ZPC_2025/posts/uloha4/</guid>
       <description>&lt;h1 id=&#34;zameranie-na-3d-tlač&#34;&gt;ZAMERANIE NA 3D TLAČ&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Úloha č.3</title>
-      <link>http://localhost:1313/267441_ZPC_2025/posts/uloha3/</link>
+      <link>https://cukricek.github.io/267441_ZPC_2025/posts/uloha3/</link>
       <pubDate>Wed, 01 Oct 2025 13:16:35 +0200</pubDate>
-      <guid>http://localhost:1313/267441_ZPC_2025/posts/uloha3/</guid>
+      <guid>https://cukricek.github.io/267441_ZPC_2025/posts/uloha3/</guid>
       <description>&lt;h1 id=&#34;zameranie-na-3d-skenovanie&#34;&gt;ZAMERANIE NA 3D SKENOVANIE&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Semestrálny projekt</title>
-      <link>http://localhost:1313/267441_ZPC_2025/posts/semestralka/</link>
+      <link>https://cukricek.github.io/267441_ZPC_2025/posts/semestralka/</link>
       <pubDate>Mon, 29 Sep 2025 21:16:24 +0200</pubDate>
-      <guid>http://localhost:1313/267441_ZPC_2025/posts/semestralka/</guid>
+      <guid>https://cukricek.github.io/267441_ZPC_2025/posts/semestralka/</guid>
       <description>&lt;h1 id=&#34;motor-poháňaný-stlačeným-vzduchom&#34;&gt;MOTOR POHÁŇANÝ STLAČENÝM VZDUCHOM&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Úloha č.2</title>
-      <link>http://localhost:1313/267441_ZPC_2025/posts/uloha2/</link>
+      <link>https://cukricek.github.io/267441_ZPC_2025/posts/uloha2/</link>
       <pubDate>Mon, 29 Sep 2025 21:02:58 +0200</pubDate>
-      <guid>http://localhost:1313/267441_ZPC_2025/posts/uloha2/</guid>
+      <guid>https://cukricek.github.io/267441_ZPC_2025/posts/uloha2/</guid>
       <description>&lt;h1 id=&#34;návrh-a-vyrezanie-2d-grafiky-na-plotteri&#34;&gt;NÁVRH A VYREZANIE 2D GRAFIKY NA PLOTTERI&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Úloha č.1</title>
-      <link>http://localhost:1313/267441_ZPC_2025/posts/uloha1/</link>
+      <link>https://cukricek.github.io/267441_ZPC_2025/posts/uloha1/</link>
       <pubDate>Mon, 29 Sep 2025 14:48:24 +0200</pubDate>
-      <guid>http://localhost:1313/267441_ZPC_2025/posts/uloha1/</guid>
+      <guid>https://cukricek.github.io/267441_ZPC_2025/posts/uloha1/</guid>
       <description>&lt;h1 id=&#34;vytvorenie-vlastnej-webovej-stránky&#34;&gt;VYTVORENIE VLASTNEJ WEBOVEJ STRÁNKY&lt;/h1&gt;</description>
     </item>
     <item>
       <title>O Mne</title>
-      <link>http://localhost:1313/267441_ZPC_2025/posts/mne/</link>
+      <link>https://cukricek.github.io/267441_ZPC_2025/posts/mne/</link>
       <pubDate>Mon, 29 Sep 2025 14:40:35 +0200</pubDate>
-      <guid>http://localhost:1313/267441_ZPC_2025/posts/mne/</guid>
+      <guid>https://cukricek.github.io/267441_ZPC_2025/posts/mne/</guid>
       <description>&lt;h1 id=&#34;niečo-o-mne&#34;&gt;NIEČO O MNE&lt;/h1&gt;</description>
     </item>
   </channel>
