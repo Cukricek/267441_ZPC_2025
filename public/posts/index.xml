@@ -2,32 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Príspevky on Moje portfolio predmetu ZPC</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Príspevky on Moje portfolio predmetu ZPC</description>
     <generator>Hugo</generator>
     <language>cz-cs</language>
-    <lastBuildDate>Mon, 29 Sep 2025 21:02:58 +0200</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Oct 2025 13:16:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Úloha č.5</title>
+      <link>http://localhost:1313/posts/uloha5/</link>
+      <pubDate>Wed, 01 Oct 2025 13:16:46 +0200</pubDate>
+      <guid>http://localhost:1313/posts/uloha5/</guid>
+      <description>&lt;h1 id=&#34;zameranie-na-programovanie-mikrokontorléru&#34;&gt;ZAMERANIE NA PROGRAMOVANIE MIKROKONTORLÉRU&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Úloha č.4</title>
+      <link>http://localhost:1313/posts/uloha4/</link>
+      <pubDate>Wed, 01 Oct 2025 13:16:41 +0200</pubDate>
+      <guid>http://localhost:1313/posts/uloha4/</guid>
+      <description>&lt;h1 id=&#34;zameranie-na-3d-tlač&#34;&gt;ZAMERANIE NA 3D TLAČ&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Úloha č.3</title>
+      <link>http://localhost:1313/posts/uloha3/</link>
+      <pubDate>Wed, 01 Oct 2025 13:16:35 +0200</pubDate>
+      <guid>http://localhost:1313/posts/uloha3/</guid>
+      <description>&lt;h1 id=&#34;zameranie-na-3d-skenovanie&#34;&gt;ZAMERANIE NA 3D SKENOVANIE&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Semestrálny projekt</title>
+      <link>http://localhost:1313/posts/semestralka/</link>
+      <pubDate>Mon, 29 Sep 2025 21:16:24 +0200</pubDate>
+      <guid>http://localhost:1313/posts/semestralka/</guid>
+      <description>&lt;h1 id=&#34;motor-poháňaný-stlačeným-vzduchom&#34;&gt;MOTOR POHÁŇANÝ STLAČENÝM VZDUCHOM&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Úloha č.2</title>
-      <link>https://example.org/posts/uloha2/</link>
+      <link>http://localhost:1313/posts/uloha2/</link>
       <pubDate>Mon, 29 Sep 2025 21:02:58 +0200</pubDate>
-      <guid>https://example.org/posts/uloha2/</guid>
-      <description>&lt;p&gt;V tejto úlohe sme mali vytvoriť 2D grafiku pomocou vektorizácie v programe Inkscape. Účelom bolo vytvoriť si vlastné logo a následne ho vyrezať na plottri. Moje logo obsahuje moje iniciály a zvyšok je inšpirovaný mojim semestrálnym projektom.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/uloha2/</guid>
+      <description>&lt;h1 id=&#34;návrh-a-vyrezanie-2d-grafiky-na-plotteri&#34;&gt;NÁVRH A VYREZANIE 2D GRAFIKY NA PLOTTERI&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Úloha č.1</title>
-      <link>https://example.org/posts/uloha1/</link>
+      <link>http://localhost:1313/posts/uloha1/</link>
       <pubDate>Mon, 29 Sep 2025 14:48:24 +0200</pubDate>
-      <guid>https://example.org/posts/uloha1/</guid>
-      <description>&lt;p&gt;Prvou úlohou v tomto kurze bolo vytvoriť vlastnú stránku pomocou nástroja Hugo. Tento nástroj dokáže jednoducho a rýchlo vytvoriť stránku, ktorá je ľahko upraviteľná. Sem budem nahrávať všetku svoju prácu, počas semestra na predmete ZPC. Týmto spôsobom budú všetky moje úlohy aj projekty úhľadne usporiadané a jednoducho prístupné.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/uloha1/</guid>
+      <description>&lt;h1 id=&#34;vytvorenie-vlastnej-webovej-stránky&#34;&gt;VYTVORENIE VLASTNEJ WEBOVEJ STRÁNKY&lt;/h1&gt;</description>
     </item>
     <item>
       <title>O Mne</title>
-      <link>https://example.org/posts/mne/</link>
+      <link>http://localhost:1313/posts/mne/</link>
       <pubDate>Mon, 29 Sep 2025 14:40:35 +0200</pubDate>
-      <guid>https://example.org/posts/mne/</guid>
-      <description>&lt;p&gt;Volám sa Matej, mám 20 rokov a pochádzam z východného slovenska. Medzi moje záľuby patrí 3D modelovanie, 3D tlač, hudba, filmy, šport napríklad plávanie, volejbal. Celý život som vedený technickým smerom a myslím si, že tento kurz bude pre mňa veľkým prínosom, či už sa bavíme o modelovaní ale aj iných programoch napríklad INKSPACE.&#xA;Momentálne študujem na vysokej škole v Brne konkrétne na fakulte strojného inžinierstva v odbore Konštrukčné inžiniertsvo. Moja stredná škola bola Stredná priemyselná škola technická v Spišskej Novej Vsi v odbore strojárstvo.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/mne/</guid>
+      <description>&lt;h1 id=&#34;niečo-o-mne&#34;&gt;NIEČO O MNE&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

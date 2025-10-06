@@ -3,11 +3,6 @@ languageCode = 'cz-cs'
 title = 'Moje portfolio predmetu ZPC'
 theme = "ananke"
 
-[params]
-  text_color = ""
-  author = "Matej Kellner"
-  description = "Krátky popis stránky"
-
 [[menu.main]]
   name = "O mne"
   url = "/posts/mne"
